@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Sanika Goyal.......
+- 🌱 I like to program in java...... 
+- 💞️ I’m looking to collaborate on community group projects for learning and experience purposes........
+- 📫 Follow me 
+
+<!---
+I have an Associate Degree in Computer Science with no real life experience in programming. I am looking forward to change 
+that by engaging in community and open-source projects. I target to land on Software Developer job by Year 2023. 
+--->
