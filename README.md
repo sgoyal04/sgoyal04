@@ -33,26 +33,46 @@ She/Her
 ## 🔗 Links  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sgoyal04/) <!-- Add your LinkedIn -->
 
-## 🛠 Skills  
+## 🛠️ Technical Skills
 
-**Languages & Core**  
-Java • C • C++ • Rust • Python • TypeScript • SQL • HTML • CSS  
+### 💻 Languages & Core  
+🟦 **Java** &nbsp;&nbsp; 🔶 **C/C++** &nbsp;&nbsp; 🦀 **Rust** &nbsp;&nbsp; 🐍 **Python**  
+🌐 **TypeScript** • **HTML** • **CSS** • **SQL**
 
-**Frontend Development**  
-React • Next.js • Tailwind CSS • ShadCN  
+---
 
-**Backend & API Development**  
-Spring Boot • Flask • RESTful APIs  
+### 🎨 Frontend  
+⚛️ **React** • **Next.js**  
+🎨 **Tailwind CSS** • **ShadCN UI**
 
-**Auth & Cloud Tools**  
-NextAuth.js • Google OAuth • Firebase • Vercel  
+---
 
-**Testing & DevOps**  
-JUnit5 • Mockito • Docker • GitHub • Portainer  
+### 🛠️ Backend & APIs  
+🌱 **Spring Boot** • 🧪 **Flask**  
+🔗 **RESTful API Design**
 
-**Databases**  
-PostgreSQL • Firebase Realtime DB / Firestore  
+---
 
-**Hardware**  
-Raspberry Pi   
+### 🔐 Auth & Cloud  
+🔐 **NextAuth.js** • 🔑 **Google OAuth**  
+🔥 **Firebase** (Auth + DB) • ▲ **Vercel** (Deployment)
+
+---
+
+### 🧪 Testing & DevOps  
+🧪 **JUnit5** • 🧰 **Mockito**  
+🐳 **Docker** • 📦 **Portainer** • 🔧 **GitHub**
+
+---
+
+### 🗃️ Databases  
+🐘 **PostgreSQL** • 🔥 **Firebase Realtime DB / Firestore**
+
+---
+
+### 🧠 Systems & Hardware  
+🧵 **Systems Programming** (C, Rust)  
+💻 **Operating Systems Concepts**  
+🧩 **Raspberry Pi Projects**
+
 
