@@ -35,44 +35,26 @@ She/Her
 
 ## 🛠️ Technical Skills
 
-### 💻 Languages & Core  
-🟦 **Java** &nbsp;&nbsp; 🔶 **C/C++** &nbsp;&nbsp; 🦀 **Rust** &nbsp;&nbsp; 🐍 **Python**  
-🌐 **TypeScript** • **HTML** • **CSS** • **SQL**
+**💻 Languages**  
+🟦 Java • 🔶 C/C++ • 🦀 Rust • 🐍 Python • 🌐 TypeScript • HTML • CSS • SQL  
 
----
+**🎨 Frontend**  
+⚛️ React • Next.js • 🎨 Tailwind CSS • ShadCN UI  
 
-### 🎨 Frontend  
-⚛️ **React** • **Next.js**  
-🎨 **Tailwind CSS** • **ShadCN UI**
+**🛠️ Backend & APIs**  
+🌱 Spring Boot • 🧪 Flask • 🔗 RESTful APIs  
 
----
+**🔐 Auth & Cloud**  
+🔐 NextAuth.js • 🔑 Google OAuth • 🔥 Firebase • ▲ Vercel  
 
-### 🛠️ Backend & APIs  
-🌱 **Spring Boot** • 🧪 **Flask**  
-🔗 **RESTful API Design**
+**🧪 Testing & DevOps**  
+🧪 JUnit5 • 🧰 Mockito • 🐳 Docker • 📦 Portainer • 🔧 GitHub  
 
----
+**🗃️ Databases**  
+🐘 PostgreSQL • 🔥 Firebase Realtime DB / Firestore  
 
-### 🔐 Auth & Cloud  
-🔐 **NextAuth.js** • 🔑 **Google OAuth**  
-🔥 **Firebase** (Auth + DB) • ▲ **Vercel** (Deployment)
+**🧠 Systems & Hardware**  
+🧵 Systems Programming (C, Rust) • 💻 OS Concepts • 🧩 Raspberry Pi  
 
----
-
-### 🧪 Testing & DevOps  
-🧪 **JUnit5** • 🧰 **Mockito**  
-🐳 **Docker** • 📦 **Portainer** • 🔧 **GitHub**
-
----
-
-### 🗃️ Databases  
-🐘 **PostgreSQL** • 🔥 **Firebase Realtime DB / Firestore**
-
----
-
-### 🧠 Systems & Hardware  
-🧵 **Systems Programming** (C, Rust)  
-💻 **Operating Systems Concepts**  
-🧩 **Raspberry Pi Projects**
 
 
