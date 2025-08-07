@@ -14,9 +14,6 @@ I'm a full stack developer and Software Systems student at Simon Fraser Universi
 - Full stack projects with a strong backend or API component  
 - Tools and research focused on systems, performance, or security  
 
-## 🤔 I'm looking for help with
-- Learning cloud deployment pipelines and CI/CD setups  
-
 ## 💬 Ask me about  
 - Frontend stacks like React + Tailwind  
 - Java and Spring Boot for backend development  
