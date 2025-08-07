@@ -4,7 +4,7 @@
 I'm a full stack developer and Software Systems student at Simon Fraser University. I love building intuitive web applications and backend systems that are scalable, secure, and well-architected. While I’m currently focused on full stack development roles to gain practical industry experience, I’m also deeply curious about low-level systems, Rust programming, and distributed architectures.
 
 ## 👩‍💻 I'm currently working on  
-- Developing full stack apps using React, Tailwind, and Spring Boot  
+- Developing full stack apps using React, Tailwind, shadCN, Node js.  
 - Building and testing RESTful APIs backed by PostgreSQL 
 
 ## 🧠 I'm currently learning  
