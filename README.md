@@ -5,7 +5,8 @@ I am a Computer Science student at Simon Fraser University specializing in **Art
 
 I don't just consume AI APIs—I build, fine-tune, and benchmark the underlying infrastructure. I am currently seeking **AI Engineering, Machine Learning Internships, and Co-op roles** where I can apply my research implementation and dense retrieval optimization experience to production environments.
 
-## 👩‍💻 Featured AI & Systems Work  
+## 👩‍💻 Featured AI & Systems Work 
+- **Research Assistant:** Served as an undergraduate research assistant for 8 months and made contributions to Rust Mizan (upcoming Research Paper). 
 - **LLM-Augmented Retrieval:** Re-implemented a state-of-the-art academic framework optimizing dense retrieval models via synthetic context generation and document-level embeddings.
 - **RAG & Dense Retrieval Benchmarking:** Evaluated information retrieval accuracy using **Contriever** against the industry-standard **BEIR** dataset.
 - **Agentic AI Tooling:** Configured custom **Model Context Protocol (MCP)** servers to transition static LLM assistants into autonomous, tool-calling engineering agents.
